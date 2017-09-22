@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'mtgCube.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'django',
-        'USER': 'postgres',
-        'PASSWORD': 'coke507',
-        'HOST':'localhost',
+        'NAME': 'dg7flop4tano',
+        'USER': 'ildgsbjkjsfwjl',
+        'PASSWORD': 'd067ec0f0ecf45cac56514cd7a3df98eaf79f5ab8e952c6f7f662f15b0294edd',
+        'HOST':'ec2-54-225-88-199.compute-1.amazonaws.com',
         'PORT':'',
     }
 }
